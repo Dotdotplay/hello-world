@@ -1,0 +1,19 @@
+// Output of Homework#3
+Demonstrates toString() function
+HELLO
+Demonstrates GetMystring() function
+HELLO
+Demonstrates charat() function(index 3 = 'L') 
+L
+Demonstrates length() function returns 5
+5
+Demonstrates toLowerCase() fucntion
+hello
+Demonstrates toUpperCase() fucntion
+HELLO
+Demonstrates Compareto() function
+The strings are Equal
+Demonstrates substring function(1-3 --> HEL)
+HEL
+Demonstrates valueOf function
+2018
